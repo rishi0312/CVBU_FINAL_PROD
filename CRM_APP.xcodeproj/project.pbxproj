@@ -275,6 +275,7 @@
 		B80F5B661C9C44B100854224 /* DSM.m in Sources */ = {isa = PBXBuildFile; fileRef = B80F5B601C9C44B100854224 /* DSM.m */; };
 		B80F5B671C9C44B100854224 /* DSE+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = B80F5B621C9C44B100854224 /* DSE+CoreDataProperties.m */; };
 		B80F5B681C9C44B100854224 /* DSE.m in Sources */ = {isa = PBXBuildFile; fileRef = B80F5B641C9C44B100854224 /* DSE.m */; };
+		B82550691CBCC83C00A39822 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B82550681CBCC83C00A39822 /* images.jpeg */; };
 		B82CD0191BF5D90F001287FB /* UpdateOpportunityView.m in Sources */ = {isa = PBXBuildFile; fileRef = B82CD0181BF5D90F001287FB /* UpdateOpportunityView.m */; };
 		B82CD01C1BF5D996001287FB /* Search_OpportunityList_Var.m in Sources */ = {isa = PBXBuildFile; fileRef = B82CD01B1BF5D996001287FB /* Search_OpportunityList_Var.m */; };
 		B82CD01E1BF6067A001287FB /* dropdown1.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CD01D1BF6067A001287FB /* dropdown1.png */; };
@@ -719,6 +720,7 @@
 		B80F5B621C9C44B100854224 /* DSE+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "DSE+CoreDataProperties.m"; path = "../DSE+CoreDataProperties.m"; sourceTree = "<group>"; };
 		B80F5B631C9C44B100854224 /* DSE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSE.h; path = ../DSE.h; sourceTree = "<group>"; };
 		B80F5B641C9C44B100854224 /* DSE.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSE.m; path = ../DSE.m; sourceTree = "<group>"; };
+		B82550681CBCC83C00A39822 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
 		B82CD0171BF5D90F001287FB /* UpdateOpportunityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UpdateOpportunityView.h; sourceTree = "<group>"; };
 		B82CD0181BF5D90F001287FB /* UpdateOpportunityView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UpdateOpportunityView.m; sourceTree = "<group>"; };
 		B82CD01A1BF5D996001287FB /* Search_OpportunityList_Var.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Search_OpportunityList_Var.h; sourceTree = "<group>"; };
@@ -1749,6 +1751,7 @@
 		84D88DDF1B9E9F5B008284A0 = {
 			isa = PBXGroup;
 			children = (
+				B82550681CBCC83C00A39822 /* images.jpeg */,
 				84D193451C8E9B6200F15357 /* CoreLocation.framework */,
 				8418B80C1C53624400E0FC79 /* ContactSearchTableViewController.h */,
 				8418B80D1C53624400E0FC79 /* ContactSearchTableViewController.m */,
@@ -2249,6 +2252,7 @@
 				84A026E21C5CCAD300D31AF9 /* LCV1.png in Resources */,
 				84A026E81C5CCCFC00D31AF9 /* PCV-Venture.png in Resources */,
 				A00215F11BC391BC005D9E4E /* 6.png in Resources */,
+				B82550691CBCC83C00A39822 /* images.jpeg in Resources */,
 				4628728B1CA19C0E00FEE6C4 /* splash@2x.png in Resources */,
 				84DFF4DB1BD4BD5E00D9589D /* dropdown.png in Resources */,
 				844B017E1BB2A47E0068C8DF /* drawer@2x.png in Resources */,
